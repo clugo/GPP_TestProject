@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io
 
 ### Unity ###
@@ -23,6 +24,31 @@
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+=======
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+>>>>>>> 08c59480a1fec1c2f7f80505ffcf47178fed22f8
 # ============ #
 # OS generated #
 # ============ #
@@ -33,4 +59,8 @@ sysinfo.txt
 .Trashes
 Icon?
 ehthumbs.db
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> 08c59480a1fec1c2f7f80505ffcf47178fed22f8
